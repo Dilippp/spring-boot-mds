@@ -11,7 +11,7 @@ import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-// Enable transaction management
+// Enable transaction management2
 @EnableTransactionManagement
 @Configuration
 @EnableJpaRepositories(
